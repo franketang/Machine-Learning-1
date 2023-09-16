@@ -1,8 +1,7 @@
 # Machine-Learning-1
 Movie Recommendation with MLlib - Collaborative Filtering
 
-Movie Recommendation System (Google Slides)
-https://docs.google.com/presentation/d/15jcTUw9K7MhRJLJDpDry72jAdmj-Bm6eZAkxKPCii6A/edit#slide=id.g27efc1821a1_0_47
+![Movie Recommendation System Google Slides](https://docs.google.com/presentation/d/15jcTUw9K7MhRJLJDpDry72jAdmj-Bm6eZAkxKPCii6A/edit#slide=id.g27efc1821a1_0_47)
 
 # Movie Recommendation with MLlib - Collaborative Filtering
 
